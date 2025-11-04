@@ -2,8 +2,6 @@
 
 An IoT project that uses an ESP32 and an MQ135 gas sensor to monitor air quality. It measures CO2 and Benzene concentrations (PPM) and sends the data to the Blynk IoT platform for easy remote monitoring.
 
-!
-
 ## Features
 
 * **Real-time Monitoring:** Tracks CO2 and Benzene levels in Parts Per Million (PPM).
